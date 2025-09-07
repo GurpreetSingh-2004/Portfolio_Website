@@ -1,7 +1,7 @@
 # CODECRAFT
 A personal portfolio web application built using Flask (Python), HTML, CSS, JavaScript, and MongoDB. The website highlights my skills, projects, certifications, and academic background, while also allowing visitors to connect with me through a contact and feedback system.
 
- Features:
+ Features:  
         -> Responsive Design – Works smoothly on desktop and mobile devices.  
         -> Project Showcase – Displays my projects with details and links.  
         -> About & Skills Section – Highlights education, certifications, and technical skills.  
@@ -9,7 +9,7 @@ A personal portfolio web application built using Flask (Python), HTML, CSS, Java
         -> Feedback Collection – Stores visitor feedback in MongoDB.  
         -> Flask Backend – Handles routing and template rendering efficiently.  
 
- Tech Stack:
+ Tech Stack:  
         -> Frontend: HTML, CSS, JavaScript  
         -> Backend: Python (Flask)  
         -> Database: MongoDB  
